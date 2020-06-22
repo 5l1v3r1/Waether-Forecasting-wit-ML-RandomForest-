@@ -26,6 +26,7 @@ data = pd.read_csv(r"C:\Users\user\Desktop\IOT\weather.csv")
 # In[351]:
 
 
+#creating dataframe
 df = pd.DataFrame(data)
 
 
